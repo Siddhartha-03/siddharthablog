@@ -42,6 +42,22 @@ Content Relationship Management (CRM) software products.
 - Range of documentation deliverables includes: User Manuals, Video tutorials, Release
 Notes, and Internal Process Document.
 
+
+
+
+
+
+## Certification Program
+- [EXIN Agile Scrum Master Certification](https://app.exeed.pro/badge/108569)
+- [EXIN Agile Scrum Foundation](https://app.exeed.pro/holder/badge/86598)
+- Fundamental Certification Program in Technical Writing, The Writers Block (TWB).
+- Certified for successfully completion of XML Essential Training and API documentation
+with JSON (LinkedIn).
+- Certified for volunteering in Society for Technical Communication event held at Unisys,
+Hewlett-Packard and Dell EMC.
+
+
+
 You can use the [editor on GitHub](https://github.com/Siddhartha-03/siddharthablog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
