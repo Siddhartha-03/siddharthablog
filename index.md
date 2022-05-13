@@ -43,10 +43,6 @@ Content Relationship Management (CRM) software products.
 Notes, and Internal Process Document.
 
 
-
-
-
-
 ## Certification Program
 - [EXIN Agile Scrum Master Certification](https://app.exeed.pro/badge/108569)
 - [EXIN Agile Scrum Foundation](https://app.exeed.pro/holder/badge/86598)
