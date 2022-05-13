@@ -22,7 +22,8 @@ individual contributor.
 ## Professional Experience
 ### Xylem
 ### Lead Technical Writer (June 2020 to date)
-- Working on end-to-end IoT solution
+- Working on end-to-end IoT solution.
+- Working in Agile Mode.
 - Range of documentation deliverables includes: API documentation, Developer
 Guide, Release Notes, Installation and Implementation Guide, Technical Specification document, Datasheet.
 
@@ -41,7 +42,6 @@ Guide, Release Notes, and Installation and Implementation Guide.
 Content Relationship Management (CRM) software products.
 - Range of documentation deliverables includes: User Manuals, Video tutorials, Release
 Notes, and Internal Process Document.
-
 
 ## Certification Program
 - [EXIN Agile Scrum Master Certification](https://app.exeed.pro/badge/108569)
