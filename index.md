@@ -46,7 +46,7 @@ Notes, and Internal Process Document.
 ## Certification Program
 - [EXIN Agile Scrum Master Certification](https://app.exeed.pro/badge/108569)
 - [EXIN Agile Scrum Foundation](https://app.exeed.pro/holder/badge/86598)
-- Fundamental Certification Program in Technical Writing, The Writers Block (TWB).
+- [Fundamental Certification Program in Technical Writing, The Writers Block (TWB).](TechnicalWriting.md)
 - Certified for successfully completion of XML Essential Training and API documentation
 with JSON (LinkedIn).
 - Certified for volunteering in Society for Technical Communication event held at Unisys,
