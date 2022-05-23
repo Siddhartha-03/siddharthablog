@@ -26,7 +26,6 @@ Dayananda Sagar College of Engineering, Bangalore, 2014.
 - Key Strengths: Can easily ramp up and understand software and hardware technology.
 - Domain knowledge: IoT Cloud, Cloud computing, Data Centre, Virtualization, Machine learning.
 
-
 ## Professional Experience
 ### Xylem
 ### Lead Technical Writer (June 2020 to date)
