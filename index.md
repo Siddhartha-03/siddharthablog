@@ -1,4 +1,7 @@
-## Siddhartha Mani
+### Siddhartha Mani
+
+**Current Company:** Xylem Inc
+
 **Mobile No:** +91-9148257837
 
 **Email ID:** mani.siddhartha@gmail.com
@@ -12,20 +15,32 @@ Bachelor of Engineering (Computer Science), Visvesvaraya Technological Universit
 Dayananda Sagar College of Engineering, Bangalore, 2014.
 
 ## Summary of Experience
--  I have 7 years of experience in writing end-user documentation for software products.
-- Participated in project deliveries as a team member and also worked on projects as an
-individual contributor.
-- Key Strengths: Can easily ramp up and understand technology Software or Hardware.
-- Knowledge in DITA, XML, JSON, Java, API Documentation, Agile Methodology, Manual Testing, CCMS, JIRA, GIT, Bitbucket, Markdown.
+- I have 7.4 years of experience in writing end-user documentation for software and hardware products.
+- Participated in project deliveries as a team member and worked on projects as an individual contributor.
+- Proficient in Information Mapping, correct usage of XML tags, and conditional tagging.
+- Good knowledge of Documentation Development Life Cycle (DDLC) and Software development Life Cycle (SDLC).
+- Experience in structured writing, single-sourcing, minimalist writing, and reuse.
+- Experience in writing software documentation in an Agile environment.
+- Experience in working with complex software, hardware products and producing easy to understand technical documents such as User Guides, Developer Guides, API documentation, and Technical Specification documents etc.
+- Experience in working with developers in source code to update Swagger Annotation.
+- Key Strengths: Can easily ramp up and understand software and hardware technology.
+- Domain knowledge: IoT Cloud, Cloud computing, Data Centre, Virtualization, Machine learning.
 
+### Technical Skills
+- **Authoring Guideline** &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; MSTP, DITA and STE
+- **Authoring Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arbotext Editor 7.0, Adobe Robohelp 2017
+- **Version Control Tools** &nbsp;&nbsp;&nbsp;&nbsp; GIT, Tortorise SVN, Bitbucket
+- **Video Capturing Tool** &nbsp;&nbsp;&nbsp;&nbsp; TechSmith Camtasia
+- **Text Editor** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Notepad++, Sublimetext, Visual Studio Code
+- **IDE** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IntelliJ IDEA
 
 ## Professional Experience
 ### Xylem
 ### Lead Technical Writer (June 2020 to date)
-- Working on end-to-end IoT solution.
+- Working on end-to-end kifecycle of IoT solution.
 - Working in Agile Mode.
 - Range of documentation deliverables includes: API documentation, Developer
-Guide, Release Notes, Installation and Implementation Guide, Technical Specification document, Datasheet.
+Guide, Release Notes, Installation and Implementation Guide, Technical Specification document.
 
 ### Unisys
 ### Senior Technical Writer (April 2017 to May 2020)
